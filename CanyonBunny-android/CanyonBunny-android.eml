@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="Android API 19 Platform" jdk_type="Android SDK">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="gdx.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/../CanyonBunny/libs/gdx-sources.jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/CanyonBunny/libs/gdx-sources.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/CanyonBunny/libs/gdx.jar!/"/>
+	</lib>
+	<lib name="gdx-backend-android.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/libs/gdx-backend-android-sources.jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/CanyonBunny-android/libs/gdx-backend-android-sources.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/CanyonBunny-android/libs/gdx-backend-android.jar!/"/>
+	</lib>
+	<lib name="bodyeditor-loader.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/../CanyonBunny/libs/bodyeditor-loader-sources.jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/CanyonBunny/libs/bodyeditor-loader-sources.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/CanyonBunny/libs/bodyeditor-loader.jar!/"/>
+	</lib>
+	<lib name="tween-engine-api.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/../CanyonBunny/libs/tween-engine-api-sources.jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/CanyonBunny/libs/tween-engine-api-sources.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/CanyonBunny/libs/tween-engine-api.jar!/"/>
+	</lib>
+</component>

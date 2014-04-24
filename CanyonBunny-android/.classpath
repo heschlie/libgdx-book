@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Android API 19 Platform"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/CanyonBunny"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="lib" path="/CanyonBunny/libs/gdx.jar" sourcepath="/CanyonBunny/libs/gdx-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/gdx-backend-android.jar" sourcepath="libs/gdx-backend-android-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/CanyonBunny/libs/bodyeditor-loader.jar" sourcepath="/CanyonBunny/libs/bodyeditor-loader-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/CanyonBunny/libs/tween-engine-api.jar" sourcepath="/CanyonBunny/libs/tween-engine-api-sources.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CanyonBunny/CanyonBunny.iml" filepath="$PROJECT_DIR$/CanyonBunny/CanyonBunny.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CanyonBunny-android/CanyonBunny-android.iml" filepath="$PROJECT_DIR$/CanyonBunny-android/CanyonBunny-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CanyonBunny-desktop/CanyonBunny-desktop.iml" filepath="$PROJECT_DIR$/CanyonBunny-desktop/CanyonBunny-desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CanyonBunny-html/CanyonBunny-html.iml" filepath="$PROJECT_DIR$/CanyonBunny-html/CanyonBunny-html.iml" />
+    </modules>
+  </component>
+</project>
+
